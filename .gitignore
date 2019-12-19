@@ -1,2 +1,4 @@
 *.DS_Store
 *Icon?
+*.pub
+*id_rsa
